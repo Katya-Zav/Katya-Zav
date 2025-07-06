@@ -40,14 +40,14 @@
 
 ## Тестовые артефакты
 
-- [Веб-тестирование](https://github.com/Katya-Zav/web)  
-- [Мобильное тестирование](https://github.com/Katya-Zav/mobile)  
-- [Тестирование API](https://github.com/Katya-Zav/api)  
-- [Git и Bash](https://github.com/Katya-Zav/git_bash)  
-- [Базы данных](https://github.com/Katya-Zav/database)  
-- [Теория тестирования](https://github.com/Katya-Zav/Theory)  
-- [Техники тест-дизайна](https://github.com/Katya-Zav/Design)  
+- [Теория тестирования](https://github.com/Katya-Zav/Theory)
 - [Документация](https://github.com/Katya-Zav/docs)
+- [Техники тест-дизайна](https://github.com/Katya-Zav/Design)
+- [Веб-тестирование](https://github.com/Katya-Zav/web)
+- [Тестирование API](https://github.com/Katya-Zav/api)
+- [Базы данных](https://github.com/Katya-Zav/database) 
+- [Мобильное тестирование](https://github.com/Katya-Zav/mobile)  
+- [Git и Bash](https://github.com/Katya-Zav/git_bash)  
 
 ---
 
