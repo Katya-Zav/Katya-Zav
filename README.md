@@ -42,12 +42,19 @@
 
 <div>
   <a href="https://github.com/Katya-Zav/web">Веб-тестирование</a>
+  
   <a href="https://github.com/Katya-Zav/mobile">Мобильное тестирование</a>
+  
   <a href="https://github.com/Katya-Zav/api">Тестирование API</a>
+  
   <a href="https://github.com/Katya-Zav/git_bash">Git и Bash</a>
+  
   <a href="https://github.com/Katya-Zav/database">Базы данных</a>
+  
   <a href="https://github.com/Katya-Zav/Theory">Теория тестирования</a>
+  
   <a href="https://github.com/Katya-Zav/Design">Техники тест-дизайна</a>
+  
   <a href="https://github.com/Katya-Zav/docs">Документация</a>
 </div>
 
