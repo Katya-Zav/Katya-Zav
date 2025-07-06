@@ -40,24 +40,16 @@
 
 ## Тестовые артефакты
 
-<div>
-  <a href="https://github.com/Katya-Zav/web">Веб-тестирование</a>
-  
-  <a href="https://github.com/Katya-Zav/mobile">Мобильное тестирование</a>
-  
-  <a href="https://github.com/Katya-Zav/api">Тестирование API</a>
-  
-  <a href="https://github.com/Katya-Zav/git_bash">Git и Bash</a>
-  
-  <a href="https://github.com/Katya-Zav/database">Базы данных</a>
-  
-  <a href="https://github.com/Katya-Zav/Theory">Теория тестирования</a>
-  
-  <a href="https://github.com/Katya-Zav/Design">Техники тест-дизайна</a>
-  
-  <a href="https://github.com/Katya-Zav/docs">Документация</a>
-</div>
+- [Веб-тестирование](https://github.com/Katya-Zav/web)  
+- [Мобильное тестирование](https://github.com/Katya-Zav/mobile)  
+- [Тестирование API](https://github.com/Katya-Zav/api)  
+- [Git и Bash](https://github.com/Katya-Zav/git_bash)  
+- [Базы данных](https://github.com/Katya-Zav/database)  
+- [Теория тестирования](https://github.com/Katya-Zav/Theory)  
+- [Техники тест-дизайна](https://github.com/Katya-Zav/Design)  
+- [Документация](https://github.com/Katya-Zav/docs)
 
+---
 
 <p align="center">
   🤗 <strong>Буду рада любым вопросам и предложениям!</strong><br><br>
