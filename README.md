@@ -9,17 +9,12 @@
 ✅ баг-репорты  
 и другие документы с кратким описанием каждого.
 
----
-
 ## 📌 Немного обо мне
 
 🧠 Аналитика и внимание к деталям — главные качества в моей работе.  
 📝 Умею работать с тестовой документацией, искать и описывать баги, проверять требования, создавать глоссарии и mindmap для структурирования информации.  
 🌍 Сейчас живу в **Польше** и открыта к новым возможностям в сфере QA.  
 🌿 Люблю кататься на велосипеде, коллекционировать комнатные растения и путешествовать в необычные места с красивой природой.
-
-
----
 
 ## 🛠️ Инструментарий, которым владею:
 
@@ -29,7 +24,7 @@
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
@@ -43,102 +38,35 @@
   
 </div>
 
----
 ## Артефакты
 
 <div style="display: flex; flex-direction: column; gap: 8px; align-items: flex-start;">
-  <a href="https://github.com/Katya-Zav/web" style="
-    padding: 6px 14px;
-    background-color: #e0e0e0;
-    color: #333;
-    text-decoration: none;
-    border-radius: 5px;
-    font-size: 14px;
-    display: inline-block;
-  ">Веб-тестирование</a>
+  <a href="https://github.com/Katya-Zav/web">Веб-тестирование</a>
 
-  <a href="https://github.com/Katya-Zav/mobile" style="
-    padding: 6px 14px;
-    background-color: #e0e0e0;
-    color: #333;
-    text-decoration: none;
-    border-radius: 5px;
-    font-size: 14px;
-    display: inline-block;
-  ">Мобильное тестирование</a>
+  <a href="https://github.com/Katya-Zav/mobile">Мобильное тестирование</a>
 
-  <a href="https://github.com/Katya-Zav/api" style="
-    padding: 6px 14px;
-    background-color: #e0e0e0;
-    color: #333;
-    text-decoration: none;
-    border-radius: 5px;
-    font-size: 14px;
-    display: inline-block;
-  ">Тестирование API</a>
+  <a href="https://github.com/Katya-Zav/api">Тестирование API</a>
 
-  <a href="https://github.com/Katya-Zav/git_bash" style="
-    padding: 6px 14px;
-    background-color: #e0e0e0;
-    color: #333;
-    text-decoration: none;
-    border-radius: 5px;
-    font-size: 14px;
-    display: inline-block;
-  ">Git и Bash</a>
+  <a href="https://github.com/Katya-Zav/git_bash">Git и Bash</a>
 
-  <a href="https://github.com/Katya-Zav/database" style="
-    padding: 6px 14px;
-    background-color: #e0e0e0;
-    color: #333;
-    text-decoration: none;
-    border-radius: 5px;
-    font-size: 14px;
-    display: inline-block;
-  ">Базы данных</a>
+  <a href="https://github.com/Katya-Zav/database">Базы данных</a>
 
-  <a href="https://github.com/Katya-Zav/Theory" style="
-    padding: 6px 14px;
-    background-color: #e0e0e0;
-    color: #333;
-    text-decoration: none;
-    border-radius: 5px;
-    font-size: 14px;
-    display: inline-block;
-  ">Теория тестирования</a>
+  <a href="https://github.com/Katya-Zav/Theory">Теория тестирования</a>
 
-  <a href="https://github.com/Katya-Zav/Design" style="
-    padding: 6px 14px;
-    background-color: #e0e0e0;
-    color: #333;
-    text-decoration: none;
-    border-radius: 5px;
-    font-size: 14px;
-    display: inline-block;
-  ">Техники тест-дизайна</a>
+  <a href="https://github.com/Katya-Zav/Design">Техники тест-дизайна</a>
 
-  <a href="https://github.com/Katya-Zav/docs" style="
-    padding: 6px 14px;
-    background-color: #e0e0e0;
-    color: #333;
-    text-decoration: none;
-    border-radius: 5px;
-    font-size: 14px;
-    display: inline-block;
-  ">Документация</a>
+  <a href="https://github.com/Katya-Zav/docs">Документация</a>
 </div>
 
 
----
-
 <p align="center">
   🤗 <strong>Буду рада любым вопросам и предложениям!</strong><br><br>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/ekaterina-zavadskaya-564706252/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
          title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:katya_derechik@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
          title="Gmail" alt="Gmail" width="40" height="40"/>
   </a>
