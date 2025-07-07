@@ -47,7 +47,8 @@
 - [Тестирование API](https://github.com/Katya-Zav/api)
 - [Базы данных](https://github.com/Katya-Zav/database) 
 - [Мобильное тестирование](https://github.com/Katya-Zav/mobile)  
-- [Git и Bash](https://github.com/Katya-Zav/git_bash)  
+- [Git и Bash](https://github.com/Katya-Zav/git_bash)
+- [HTML&CSS](https://github.com/Katya-Zav/HTML-CSS) 
 
 ---
 
