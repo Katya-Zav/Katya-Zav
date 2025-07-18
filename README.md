@@ -1,6 +1,6 @@
 # 👋 Привет! Меня зовут Екатерина.
 
-Я — начинающий ручной тестировщик.  
+Я — мануальный тестировщик([резюме](https://drive.google.com/file/d/1aoa6y5BylbFq_Sulj0G0ah3Jyye9HlPc/view?usp=drive_link)).
 Закончила курс **«Функциональное тестирование ПО» Junior** под руководством Артёма Русова.  
 
 Здесь, на GitHub, вы можете найти мои артефакты:  
@@ -54,7 +54,7 @@
 
 <p align="center">
   🤗 <strong>Буду рада любым вопросам и предложениям!</strong><br><br>
-  <a href="https://www.linkedin.com/in/ekaterina-zavadskaya-564706252/" target="_blank">
+  <a href="https://www.linkedin.com/in/ekaterina-zavatskaya/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
          title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
   </a>
